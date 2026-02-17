@@ -1,4 +1,3 @@
-지금부터 깃 커밋 테스트 진행
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
